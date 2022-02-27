@@ -1,0 +1,314 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Long Parliament-vvork, (if they wil please to do't) for the good of the Common-Wealth: or, The humble desires of the well-affected, revived. Tender'd to the most serious consideration of the Parliament, Army, and others, in XX. proposals, concerning I. Liberty of conscience. ... XX. About hospitalls and alms-houses.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88512</idno>
+            <idno type="STC">Wing L2992</idno>
+            <idno type="STC">Thomason E985_23</idno>
+            <idno type="STC">ESTC R202776</idno>
+            <idno type="EEBO-CITATION">99862955</idno>
+            <idno type="PROQUEST">99862955</idno>
+            <idno type="VID">115135</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88512)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115135)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 146:E985[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Long Parliament-vvork, (if they wil please to do't) for the good of the Common-Wealth: or, The humble desires of the well-affected, revived. Tender'd to the most serious consideration of the Parliament, Army, and others, in XX. proposals, concerning I. Liberty of conscience. ... XX. About hospitalls and alms-houses.</title>
+               </titleStmt>
+               <extent>[2], 16 [i.e. 14] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by T.L. for G. Calvert, at the Black-Spread-Eagle, neer the west-end of Pauls,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The words "I. Liberty .. alms-houses." are bracketed together on title page, with "concerning" reading up at left.</note>
+                  <note>P. 14 misnumbered 16.</note>
+                  <note>Annotation on Thomason copy: "June 9.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115135:1" rendition="simple:additions"/>
+            <p> 
+               <hi>LONG Parliament-VVork, (if they wil pleaſe to do't) FOR The Good of the COMMON-WEALTH</hi>: OR, <hi>The</hi> Humble Deſires <hi>of the</hi> Well-affected, <hi>Revived.</hi>
+            </p>
+            <p>
+               <hi>Tender'd to the moſt ſerious Conſideration of the Parliament, Army, and others, in XX. PROPOSALS, Concerning</hi>
+               <list>
+                  <item>
+                     <hi>I.</hi> Liberty of Conſcience.</item>
+                  <item>
+                     <hi>II.</hi> Puniſhment of Sinn.</item>
+                  <item>
+                     <hi>III</hi> Putting down bad, <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> up good Magiſtrates.</item>
+                  <item>IV. Maintenance of the poor.</item>
+                  <item>V. Education of all Children, and Youth.</item>
+                  <item>VI. A<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>ation of the Law about Theft.</item>
+                  <item>VII Putting down of Tythes, and appointing a Gospel-like maintenance for good Miniſters:</item>
+                  <item>VIII. Satisfying of Proprietors who have Impropriations.</item>
+                  <item>IX. A putting down Farmers of Excize, &amp;c, and ſettling another way to collect it.</item>
+                  <item>X. Calling to account for all publike monies concealed, or gotten by fraud</item>
+                  <item>XI. Regulation of Law, and bringing it into the Countrey.</item>
+                  <item>XII. VVhat Cauſes ſhould be tryed at VVeſtminſter, and what not.</item>
+                  <item>XIII. Reducing of the Judges Sallary.</item>
+                  <item>XIV. Limits to the power of Parliaments, and to the time of their ſitting.</item>
+                  <item>XV. Rules to be obſerved in electing Parliament men.</item>
+                  <item>XVI. Their Qualifications</item>
+                  <item>XVII. The work of the Sheriff and other Commiſsioners about it.</item>
+                  <item>XVIII. The tryall of the Elections, by the Council of State.</item>
+                  <item>XIX. About Advance of trade.</item>
+                  <item>XX. About Hospitalls and Alms-houſes.</item>
+               </list>
+            </p>
+            <p>London, <hi>Printed by</hi> T. L. <hi>for</hi> G.Calvert, <hi>at the</hi> Black-Spread-Eagle, <hi>neer the Weſt-end of</hi> Pauls, 1659.</p>
+            <pb facs="tcp:115135:2"/>
+         </div>
+         <div type="author_to_the_reader">
+            <pb facs="tcp:115135:2"/>
+            <head>THE EPISTLE TO THE READER.</head>
+            <p>THe ſeveral Particulars inſiſted on in this ſmall Tract being expoſed to publi<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> it is deſired that they may not be the occaſion or provok<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to envy. The general good of the Nations being aimed at in all the Propoſalls, which if it ſhall gra<g ref="char:EOLhyphen"/>ciouſly pleaſe the Parliament to approve of, and cauſe to be brought to offect, which is much hoped, and longed for, eſpecially as to the ſubſtan<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ial parts of them; the benefit of theſe things will appear, and doubtleſs the well-affected will both now (when they are done, and hereafter have abundant cauſe to praiſe God (as well as to pray to him) for all that are in authority (or in emi<g ref="char:EOLhyphen"/>nent place) over them ſo acting for their weal and ſafety.</p>
+            <p>The Publiſher hereof, who well knows that in the main of this ſhort diſcourſe he hath expreſt the humble deſires and hearty well-wiſhes of very many of the good people in this Common<g ref="char:EOLhyphen"/>wealth, hath thought fit (for ſeveral reaſons which he is ready to give to any Friend that ſhall demand them) to deſire that his Name be not made publike with it, although he hath been, and ſhall alway (whilſt life and ſtrength is vouchſafed) be ready faithfully to ſerve his Country, to the utmoſt hazard upon all occaſions.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:115135:3"/>
+            <head>Long Parliament-Work, <hi>&amp;c.</hi>
+            </head>
+            <div n="1" type="proposal">
+               <head>PROPOSAL <hi>The Firſt.</hi>
+               </head>
+               <p>TH<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t the civil and Chriſtian Liberties (at leaſt) of all good people reſpected (or comprehended) in the ſixth Propoſal of the Army, lately preſented to the Parliament, may by Law be aſſerted and ſecured, and that with ſuch penalties <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> on ſuch as ſhall preſume to encroach upon, or <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the ſame, as that all may be detterred for the future <gap reason="illegible" resp="#UOM" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ther Magiſtrates or o<g ref="char:EOLhyphen"/>thers) from being in jurious to any on that account; for elſe it's an eaſie thing for any that have Power in their hands, to abuſe it in ſome degree (or othe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>) of perſecution, (if they are minded) when they know there is not a Law to puniſh offences of that nature.</p>
+            </div>
+            <div n="2" type="proposal">
+               <head>II.</head>
+               <p>That none may preſume to take Liberty to themſelves for comm<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tting of Wickedneſs againſt the Law of God and man, in Murders, Adultery, Fornication, Swearing, Drun<g ref="char:EOLhyphen"/>kenneſ, Oppreſſion, Extortion, Bribery, Couzening, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and ſuch like abominacions; there may be an Act with ſtrict pe<g ref="char:EOLhyphen"/>nalties to command all Civil Officers of the Common-Wealth (and all others) to uſe their utmoſt endeavours to bring all ſuch as ſhall tranſgreſs any of the Laws made in thoſe Caſes, without fear, favour or affection to due and de<g ref="char:EOLhyphen"/>ſerved
+<pb n="3" facs="tcp:115135:3"/> Puniſhment; and in caſe it ſhall be (ſufficiently) pro<g ref="char:EOLhyphen"/>ved by two Witneſſes, That any whomſoever have neglected their duty therein, they may be made very exemplary for ſuch their neglects, in ſuch manner as the Parliament ſhall think fit to appoint.</p>
+            </div>
+            <div n="3" type="proposal">
+               <head>III.</head>
+               <p>That according to the ninth and tenth Propoſals of the Army, which hath been taken into ſome conſideration by the Parliament, Such perſons may be intruſted with the management and exerciſe of the Government, who are of ſutable ſpirits to the Good Cauſe and Intereſts of theſe Na<g ref="char:EOLhyphen"/>tions, and to make way for the ſame. That all Aiders, Aſ<g ref="char:EOLhyphen"/>ſiſters of, and Adherers to the late King <hi>Charles Stuart,</hi> his Son, or any other perſon or perſons whatſoever, of that party, againſt the Parliament or Common-Wealth of <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> and all other perſons whatſoever that have made uſe of any Authority or Power under pretence of Law or other<g ref="char:EOLhyphen"/>wiſe, to deprive or abridge any of the good people of the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Nations of their Chriſtian Liberty; or have, or ſhall expreſs themſelves in any way mockers, ſcoffers, or revilers of god<g ref="char:EOLhyphen"/>lineſs, or of the profeſſors thereof; or are otherwiſe ſcanda<g ref="char:EOLhyphen"/>lous or looſe in their converſations, or have not given good ſatisfaction of their affection and faithfulneſs to this Cauſe, may be ſpeedily removed out of all Places of Power or Truſt in the Magiſtracy, or other management of the pub<g ref="char:EOLhyphen"/>like Affairs of theſe Nations; and that no ſuch perſons may be admitted into any ſuch places of Power or Truſt for the future. And in order hereto,</p>
+               <p>That all Charters of Cities, and Towns Corporate with<g ref="char:EOLhyphen"/>in this Common-Wealth, which were granted by any of the K<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ngs, or by the late Lord Protectors, unto the ſaid Cities and Towns-Corporate, may be ſpeedily brought into the Parliament, to the end that they (or ſuch of them as ſhall be thought neceſſary to be continued) may be granted and ſe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>led in <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Name, and by Authority of the Parliament (as the Government is now conſtituted) and that in the doing th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reof, the Government of ſuch great Bodies (or Societies) of People (as are in ſuch places) may be committed into
+<pb n="4" facs="tcp:115135:4"/> the hands of perſons who are fitly qualified for it; that is to ſay, Such as are the moſt eminent for godli<g ref="char:EOLhyphen"/>neſs, faithfulneſs, and conſtancy to the good Cauſe and In<g ref="char:EOLhyphen"/>tereſts of theſe Nations, (as aforeſaid) and not be left to the Management of ſo many (moſt of which fully diſcovers themſelves to be none of the beſt in ſeveral places of this Common-Wealth) and how can it be expected that Vice ſhould be puniſhed by ſuch as are vicious themſelves? or Vertue countenanced by thoſe that are deſtitute of, and E<g ref="char:EOLhyphen"/>nemies to it?</p>
+            </div>
+            <div n="4" type="proposal">
+               <head>IV.</head>
+               <p>That if poſſible (as ſurely it is) a way may be found out to ſet all ſuch poor to work, and to compel them to labour who are able, that they may not live in ſuch an idle and beggarly condition as they do; and that an effectual courſe may be conſtantly taken to provide and allow ſufficient maintenance for ſuch as through age or otherwiſe are im<g ref="char:EOLhyphen"/>potent, and not able to work, ſo that they may not be ne<g ref="char:EOLhyphen"/>ceſſitated to beg or ſtarve, either of them being a great ſhame for ſuch a wealthy Nation as <hi>England</hi> to ſuffer; and how great a ſcandal doth it occaſion to our Profeſſion of Chriſti<g ref="char:EOLhyphen"/>anity? For better effecting hereof, be pleaſed to require the Miniſter of each Pariſh throughout the Nations, to have an inſpection into the neceſſitous condition of the poor, and to ſet time apart every Week for that end, and according as he finds their needy condition to be, then conſtantly to provoke thoſe as are under his charge, to diſcharge their du<g ref="char:EOLhyphen"/>ty to the utmoſt for their relief; and that all other Officers to whom the care of the poor is committed, may be ſtrictly enjoyned to ſee that ſufficient maintenance be duly given to ſuch, as occaſion requires; and that from time to time diligent inquiry may be made by the ſeveral Judges in their Circuits, and at all quarter Seſſions, how the Laws made in the Poors behalf are obſerved, &amp; when breaches are found, the tranſgreſſors ſhould ſuffer according to the Law &amp; their demerits; that no neglect of ſo neceſſary a duty as this of relieving the diſtreſſed, may eſcape unpuniſhed.</p>
+            </div>
+            <div n="5" type="proposal">
+               <pb n="5" facs="tcp:115135:4"/>
+               <head>V.</head>
+               <p>That all children and youth who are capable of learning may be put to School (both rich and poor) untill (at leaſt) they can read the Bible; want of learning being one great cauſe of much ignorance and profaneneſs (in the land) learning on the other hand being an apt means to direct in the performance of duty both to God and man, and doth not only capaſitate ſuch as have it oftentimes to gain a live<g ref="char:EOLhyphen"/>lihood by it (when other means fail) for themſelves &amp; friends but doth alſo make more ſerviceable to the Commonwealth, and that good School-maſters may be provided in every Town &amp; Pariſh for that end and purpoſe; &amp; parents &amp; ma<g ref="char:EOLhyphen"/>ſters of families, rich and poor may be injoyned to put their children and youth to School as aforeſaid, and the Con<g ref="char:EOLhyphen"/>ſtable and other officers required to ſee that no neglect herein be committed, eſpecially by the poor who uſually are very remiſs and careleſs in the education of their chil<g ref="char:EOLhyphen"/>dren, which doth the more diſpoſe them to evil (and to the manifeſtation of it) when grown to the age of men and women: ſurely this might be done without much charge, and the good of it will fully anſwer (in a ſhort time) all the difficulties that are in it.</p>
+            </div>
+            <div n="6" type="proposal">
+               <head>VI.</head>
+               <p>That there may be a Law for puniſhing of Felons, who ſteal above the value of thirteen pence half penny, more agreeable to the rule of Scripture and to humanity, then the Law now in being, which for a long time hath been ex<g ref="char:EOLhyphen"/>ecuted on ſuch offenders, to the taking away of life for matters of ſmall moment; for doth not ſo ſevere and un<g ref="char:EOLhyphen"/>ſuitable puniſhment rather harden ſuch as are addicted to theft in that evil, then diſſwade from it, for ſuch as are minded ſo to maintain themſelves in an idle and wicked courſe of life, do in all probability often think, that if brought to tryal, through the importunity of friends, the Jury will encline to mercy, and the Judge to clemency and ſo they ſhall eſcape hanging, but if not they reſolve to have (according to the old proverb) <hi>A ſhort life and a ſw<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>et,</hi> and regard not to think they ſhall come to ſuch an end,
+<pb n="6" facs="tcp:115135:5"/> concluding that but few will be ſo rigorous as to take away their lives for a little monies or goods, or that they dare not do it; and if ſometimes they eſcape the extremity of the Law; they flatter themſelves with thinking of eſcaping always. Now oh that it might pleaſe the Parliament to an<g ref="char:EOLhyphen"/>null and make void that harſh un-Scripture like and un<g ref="char:EOLhyphen"/>equal law of putting to death for theft, and inſtead there<g ref="char:EOLhyphen"/>of to make a law that it may be moſt ſeverely puniſhed ac<g ref="char:EOLhyphen"/>cording to the degrees and manner of it (not taking away life at any hand) but compelling thoſe that are able to make reſtitution, as Scripture doth direct, <hi>Exod.</hi> 22.1, 2, 3, 4, 7. but for thoſe that are not able to reſtore, they may be kept cloſe to work (if able) in houſes of correction for a competent time according to the offence committed, or o<g ref="char:EOLhyphen"/>therwiſe ſerve, be ſold (or kept in priſon) and doubtleſs this courſe if taken would more deter from ſtealing, then the way now practized; ſurely mans law ſhould be as con<g ref="char:EOLhyphen"/>form'd to Gods law as may be; and if they were ſo particu<g ref="char:EOLhyphen"/>larly in this caſe of theft, it would be more for the com<g ref="char:EOLhyphen"/>mon good of the Nations both here and hereafter, when an account muſt be given at Gods tribunal for all deeds done in the body, and then Law-makers and law main<g ref="char:EOLhyphen"/>tainers, as well as law-breakers, muſt ſubmit to the juſt and righteous ſentence of their Judge; and hovv the in<g ref="char:EOLhyphen"/>flicting of death for theft unrepented of, will or can be juſtified, we believe none can manifeſt, but the contrary may eaſily be proved both by Scripture and ſufficient rea<g ref="char:EOLhyphen"/>ſon, if any deſire it.</p>
+            </div>
+            <div n="7" type="proposal">
+               <head>VII.</head>
+               <p>That although its moſt requiſite that a godly, faithful and painful Goſpel-preaching-Miniſtry, be every where encouraged, countenanced and maintained, as in the ſeventh propoſal of the Army, yet it is moſt humbly and earneſtly deſired, as it was formerly by the Army and ma<g ref="char:EOLhyphen"/>ny other well affected people of this Commonwealth, that the way of doing it may be altered from what it novv is, Tythes being moſt apparently found to be very contenti<g ref="char:EOLhyphen"/>ous and burthenſome; extremity of the Law as to treble
+<pb n="7" facs="tcp:115135:5"/> damages being much made uſe of, and the paying of Tythes in kind in ſome reſpects in many places in ſtead of being the tenth part amounts to the fifth (or there abouts) and the payment of them being much ſcrupled (and that not altogether without good ground) by the conſciences of many good people, as not being a Goſpel maintenance, who are neceſſitated either to pay them againſt conſcience, or elſe to run the hazard of undoing (almoſt) by enduring the execution of the Law, when the covetouſneſs or envy of any will prompt them to exact the benefit (of that (harſh) law) of treble damages, and thereby alſo ſuch Mi<g ref="char:EOLhyphen"/>niſters, uſing ſuch ſeverity do occaſion much diſhonor, to the name of Chriſt in rendering the Goſpel (in Scripture called glad tidings) to the poor very burthenſome and greivous exactions; and ſurely if this un-goſpel and Jewiſh like way were put to an end, and ſome other ſettled, much more conſonant to the Goſpel-rule, it would give great ſatisfaction, and render the Miniſtry more acceptable to the people, and their profeſſion and injoyments would be much more comfortable to themſelves and their friends; but here let there be no miſtake in any, to think that ſuch as are ignorant of the Goſpel, ſcandalous and inſufficient are at all deſired to be encouraged and maintained, nay let not ſuch be ſuffered to continue in the publike exerciſe of their calling or profeſſion to deceive and deſtroy the ſouls of the people and their own together, but let them betake themſelves to imployments for a livelihood, more expedi<g ref="char:EOLhyphen"/>ent and ſafe for them.</p>
+            </div>
+            <div n="8" type="proposal">
+               <head>VIII.</head>
+               <p>That all impropriate Tythes which belong not to the Mi<g ref="char:EOLhyphen"/>niſters, but to other perſons may be (ſtill) paid as formerly, till a courſe can be likewiſe found out for taking of them away by giving ſatisfaction to the proprietors either by the ſupream authority of the Nation or by the people (who pay them) their agreeing with the owners about them in a way of purchaſe or otherwiſe.</p>
+            </div>
+            <div n="9" type="proposal">
+               <head>IX.</head>
+               <p>That whereas the Farming of the Excize, Cuſtoms Poſt<g ref="char:EOLhyphen"/>age
+<pb n="8" facs="tcp:115135:6"/> of Letters, <hi>&amp;c.</hi> have been found to occaſion much grie<g ref="char:EOLhyphen"/>vance and many complaints from the people, who (for filthy lucres ſake) have been rigorouſly dealt withal in many places of the Nation (as might eaſily be made appear) by the Far<g ref="char:EOLhyphen"/>mers, eſpecially of the Exciſe, who being by Law impowered to act as Commiſſioners, and ſo made Judges in their own cau<g ref="char:EOLhyphen"/>ſes, (a thing both unreaſonable, and heretofore unuſual) do ordinarily exact forfeitures from ſuch as are either ignorant of or miſtake the Law, &amp; ſo have not only paid away their gains, but have been ſo impoveriſhed and perplext, that they have often left Brewing, though it be the way of their lively<g ref="char:EOLhyphen"/>hood, and thereby have been made incapable of enjoying a comfortable ſubſiſtence; and how eaſie is it to make them ſuffer unjuſtly, if perſons will ſwear falſly, which how ma<g ref="char:EOLhyphen"/>ny are ready to do for money, who make not conſcience of an oath? And how needleſly troubleſome are the ſearchers many times, in raiſing and diſturbing the Brewers &amp; their Families, who refuſe to compound (at great Rates) with them, that they may (if poſsible) charge them (right or wrong) with making falſe Entries, and ſo make them lyable to the great penalty of the Act, and recover the ſame into their purſes, by which (or like means) how exceedingly have many of the Farmers been enriched, and the people wonderfully enraged both againſt the Law and Law-ma<g ref="char:EOLhyphen"/>kers, as well as againſt the Executioners of it? Now for re<g ref="char:EOLhyphen"/>medy hereof, and that the ſaid Exciſe and Cuſtoms, <hi>&amp;c.</hi> may be improved for the benefit of the Common-Wealth, free from ſuch oppreſſions: It is humbly propoſed to con<g ref="char:EOLhyphen"/>ſideration, That the Juſtices of Peace in every County may when they know what proportion is charg'd on every County, (in which for a rule, regard may be had to what the Farmers have paid yeerly) allot or appoint (as righte<g ref="char:EOLhyphen"/>ouſly as they can) what is to be paid by the ſeveral Cities and Towns, and other places within their Juriſdiction; and when every City, Towne, or other place, doth know their particular charge, then two of the neigh<g ref="char:EOLhyphen"/>bouring Juſtices, with the Chief MAGISTRATE, or other civil Officers may once a year, or every ſix months,
+<pb n="9" facs="tcp:115135:6"/> (during the time as it muſt be kept up) uſe ſuch means as they think beſt, to charge every particular Houſe vvhich by Lavv is obliged to pay (according to Right and Equity) on<g ref="char:EOLhyphen"/>ly from the vvhole vvithin their bounds, to take order that the full ſum charged on each City or Tovvn, (or other place) may be anſvvered and ſatisfied; and it is not much doubted, (if at all) but that the Juſtices vvould once or tvvice in a year act in this buſineſs for the great good and eaſe of their neighbours; and vvithout any doubt at all the people vvill chearfully, and much more eaſily raiſe the Exciſe, and account themſelves much obliged to have the buſineſs ſo ordered, and that a Collector may be appoint<g ref="char:EOLhyphen"/>ed in every City &amp; Town, &amp; a Receiver-General in every Coun<g ref="char:EOLhyphen"/>ty to take and pay the whole to the Parliaments Treaſurers, as they ſhall direct and order; Certainly all places may have the charge which is impoſed on them, raiſed by their own Officers and Neighbours, who will better underſtand how equally to divide or proportion the ſame, then ſuch as are ſtrangers, and do undoubtedly farm it more to raiſe great eſtates to them<g ref="char:EOLhyphen"/>ſelves if they can, (as divers have done) then to ſerve the Common-Wealth by ſuch an undertaking.</p>
+            </div>
+            <div n="10" type="proposal">
+               <head>X</head>
+               <p>That in every County three or five of good integrity, (who have not any of the publike money in their hands to give an account of) may be appointed as Commiſſioners ſpeedily to call to a ſtrict account all manner of perſons as Committees, Receivers, and Collectors, and others who have received any of the publike Moneys; and that the ſaid Commiſſioners may (as ſpeedily as is poſſible) return the Names, and the places of abode of all ſuch as have any of the publike money in their hands, and likewiſe what ſums they have, to the Parliament or Council of State, or to ſuch as ſhall be impowered to receive and report the ſame, to the end that an effectual courſe may be taken that all conceal<g ref="char:EOLhyphen"/>ed money, or whatever hath been gotten unjuſtly, by fraud or otherwiſe, may be recovered as the Parliament ſhall ap<g ref="char:EOLhyphen"/>point, to ſerve the publike uſe in this time of neceſſity, and to help pay the Nations Debts; and let the ſaid Commiſſio<g ref="char:EOLhyphen"/>ners
+<pb n="10" facs="tcp:115135:7"/> be ſworn to diſcharge their Truſt in the matter with all diligence and faithfulneſs.</p>
+            </div>
+            <div n="11" type="proposal">
+               <head>XI.</head>
+               <p>That in purſuance of the ſecond Propoſal of the Army lately preſented to the Parliament concerning regulation of Law, and Courts of Juſtice and Equity, as that they may be a protection, and not vexatious or oppreſſive to the People of theſe Nations.</p>
+               <p>It is humbly deſired, That all ordinary matters of contro<g ref="char:EOLhyphen"/>verſie or difference which doth or may happen to ariſe be<g ref="char:EOLhyphen"/>tween perſon &amp; perſon, may be heard &amp; determin'd in the ſeveral reſpective Counties where the people live, or rather in the Hundred where they are committed or ariſe, without any Appeal, but to a Parliament when it ſits, or otherwiſe to the Council of State; and that they may be monthly judg<g ref="char:EOLhyphen"/>ed by twelve men of free and honeſt condition, choſen by themſelves, with their grave or chief Officer amongſt them, and that they may ſwear to judge every mans cauſe aright, without fear, favour, or affection; and that there may be a publike Office in every County to regiſter all Leaſes made for any Land in that County; and alſo all Conveyances whatſoever, and all Charges upon the Lands, all Bonds and Contracts of any value, that ſo it may readily be known in whom the intereſt of Land remains, and what incumbran<g ref="char:EOLhyphen"/>ces lye upon it; &amp; every Eſtate or Charge not entered there, to be void in Law: And that the Country have the chuſing of their Regiſters in their reſpective Counties once a year, upon a fixed day, and that they have plain Rules and Limi<g ref="char:EOLhyphen"/>tations made by Authority of Parliament, and ſevere pe<g ref="char:EOLhyphen"/>naltys inflicted for tranſgreſſing of them: And that in caſe of Appeals, (as aforeſaid) a Committee may be appointed to judge what caſes are needful for to be taken cognizance of, either by the Parliament or Council, and what not, and to put a period thereto, if they can; or otherwiſe to certifie the matter to the one or the other, for the Complainants obtaining final judgement in the caſe from the one or other of them, whom it may happen to come before</p>
+            </div>
+            <div n="12" type="proposal">
+               <pb n="11" facs="tcp:115135:7"/>
+               <head>XII.</head>
+               <p>That it may be declared what Caſes or Actions may be brought to be judged by the Courts at <hi>Weſtminſter,</hi> and what not; and it is humbly and earneſtly deſired for the general good of the Common-Wealth, That no more then what there is an abſolute neceſsity for, may be brought to tryal thither, by which means the people will be freed from much pain in travel, and from great expences in the proſe<g ref="char:EOLhyphen"/>cution of their buſineſs: Oh that this might be ſo conſider<g ref="char:EOLhyphen"/>ed of, as to be ſpeedily granted, notwithſtanding all the en<g ref="char:EOLhyphen"/>deavours which moſt probably the Lawyers (for their ad<g ref="char:EOLhyphen"/>vantage ſake) will make to the contrary.</p>
+            </div>
+            <div n="13" type="proposal">
+               <head>XIII.</head>
+               <p>That the Judges which are employed in the ſervice of the Common-Wealth, may for their Salaryes have onely five hundred pounds <hi>per annum,</hi> each Judge, for diſcharge of their duty; and it is hoped that (ſince there have been ſuch great Debts contracted in the time of the late Protectors Government, when they (as is informed) had doubled the ſum above-mentioned, (if not more) and the Nation ha<g ref="char:EOLhyphen"/>ving been ſo much impoveriſhed by the Wars &amp; long pay<g ref="char:EOLhyphen"/>ments) they will be well contented with ſuch a Sallary, being as much as (it is credibly reported) was their allow<g ref="char:EOLhyphen"/>ance in the Kings dayes; and they cannot but ſay (if they will ſpeak the truth) the Nation was not then in ſo low a condition by much, as now it is, nor at ſuch great expences.</p>
+            </div>
+            <div n="14" type="proposal">
+               <head>XIV.</head>
+               <p>That ſuch l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mits and bounds may be ſet to the Power of the preſent and all future Repreſentatives of the people, as likewiſe to the time of their ſitting in Parliament, that they may bee in a capacity to govern and preſerve the people, whom from time to time they repreſent, to aſſert and ſecure their Civill and Chriſtian Liberties, to make War and Peace as juſt occaſion is, and to act in all other things for their weal and ſafety, and not otherwiſe; and this for prevention of ſuch inconvenien<g ref="char:EOLhyphen"/>cies as will neceſſarily ariſe, if a perpetual and unlimited power ſhould be exerciſed, and remain in any Parliament, as formerly was incident to the Government when a King or other ſingle Perſon did bear the ſway in theſe Nations; it may be account<g ref="char:EOLhyphen"/>ed
+<pb n="12" facs="tcp:115135:8"/> too much preſumption to propoſe what time this or any o<g ref="char:EOLhyphen"/>ther Parliament ſhall ſit<g ref="char:punc">▪</g> or how large or little their power ſhall be, as to the particulars of it; and therefore the whole is humbly ſubmitted to this Parliaments grave and timely con<g ref="char:EOLhyphen"/>ſideration, hoping they will do theſe neceſſary works in con<g ref="char:EOLhyphen"/>venient time.</p>
+            </div>
+            <div n="15" type="proposal">
+               <head>XV.</head>
+               <p>That ſuch qualifications and rules may be agreed on, act<g ref="char:EOLhyphen"/>ed, and declared in words that are the moſt plain, and ea<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e to be underſtood, whereunto the people ſhould by penalty be enjoyned to yeeld obedience at all times in the Election of their Repreſentatives, and under this Head it is humbly and earneſtly deſired that ſuch as have forfeited their freedoms to elect, and of being elected to ſerve in Parliament, by their voluntary aiding, aſſiſting, or abetting any of the late Wars, which were raiſed by the King, his Son, or their Adberents a<g ref="char:EOLhyphen"/>gainſt the Parliament or other government of the ſaid Com<g ref="char:EOLhyphen"/>mon-wealth, may for ever be diſabled from electing, or being elected, to the end the publike peace may not again be diſtur<g ref="char:EOLhyphen"/>bed, through the endeavours of any ſo affected, which moſt probably they will be labouring after, in purſuance of their Malignant principles, if they be but admitted to ſhare in the Legiſlative power with thoſe as ſubdued them, it being very incident to perſons when povver is in their hands to take all opportunities for being revenged on ſuch as have not only ſubdued them, but cauſed them to raiſe and pay great ſums of money out of their Eſtates for their Delinquency, the which vvas done by them that they might poſſeſs the reſt, but cer<g ref="char:EOLhyphen"/>tainly it cannot be rationally expected, nor was it ſo condi<g ref="char:EOLhyphen"/>tioned by the Parliament or their Committees as we knovv of; That upon paying their Compoſitions they ſhould be fully reſtored to the ſame or like condition as they were in before the Wars, as to the power of electing, or of being elected for the end aforeſaid, except by ſome good ſervice ſdone for the Common-wealth they have demonſtrated them<g ref="char:EOLhyphen"/>ſelves to be throughly converted in Judgment and affection <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rom the error of their former evill ways.</p>
+            </div>
+            <div n="16" type="proposal">
+               <pb n="13" facs="tcp:115135:8"/>
+               <head>XVI.</head>
+               <p>That ſuch only may be choſen to be Repreſenters of the people in Parliament as are generally reputed for men fear<g ref="char:EOLhyphen"/>ing God, of good converſation and of ſelf-denying publike ſpirits, and ſo ſuitably diſpoſed to ſeek the preſervation and welfare of the Common-wealth, and that they may not be deſpiſed for youth and accounted weak in Judgment, it ſeems neceſſary that they be at leaſt aged one and twenty years, or rather twenty five.</p>
+            </div>
+            <div n="17" type="proposal">
+               <head>XVII.</head>
+               <p>That the Sheriff in every County, and the chief Magiſtrate in every City, and Town Corporate, and two or four Com<g ref="char:EOLhyphen"/>miſſioners, (the beſt that can be found) joyned vvith them may take ſpecial care that none appear to elect, or to be elect<g ref="char:EOLhyphen"/>ed, but only ſuch as are qualified for it, and if any other not<g ref="char:EOLhyphen"/>withſtanding ſhall preſume to put themſelves on that vvork, effectuall courſe may be taken with them to cauſe them to pay their Forfeitures according as by Lavv they ſhall be required, and the Commiſſioners as vvell as the Sheriffs and Magiſtrates to ſign the Returns.</p>
+            </div>
+            <div n="18" type="proposal">
+               <head>XVIII.</head>
+               <p>That the Councill of State may have full power eſtabliſhed in them by Law, to call all ſuch Sheriffs, Magiſtrates and Com<g ref="char:EOLhyphen"/>miſſioners to account that ſhall neglect their duty therein, and withall according to the Law for regulating of Elections, as aforeſaid, they may queſtion any of the Elected, and where they finde them not choſen according to the Law provided in that caſe to reject or put them by from ſerving as Members in Parliament; and this to be conſtantly practiſed as the beſt way for admiſſion of Members, or for excluding them from ſitting; and much trouble and other inconveniencies will be avoyded which are like to occur, if the Parliament themſelves at firſt coming together, ſhould be the (only) Approvers or Excluders of Perſons; but if the Sheriff and the aforeſaid Commiſſioners perform their work anſwerable to the fore<g ref="char:EOLhyphen"/>going rule, there will be none of this kinde of trouble to the Council of State at all.</p>
+            </div>
+            <div n="19" type="proposal">
+               <head>XIX.</head>
+               <p>That a Committee may be ſpeedily appointed, and from
+<pb n="16" facs="tcp:115135:9"/> time to time continued to conſider of, and endeavour the ad<g ref="char:EOLhyphen"/>vance of trade what lyeth in them, and that a conſtant re<g ref="char:EOLhyphen"/>ſpect may be had thereto in the making of war and peace at all times, it being of ſo much concernment, towards the pro<g ref="char:EOLhyphen"/>ſperity of theſe Nations, and next to the ſafety of them, ſhould be taken care of.</p>
+            </div>
+            <div n="20" type="proposal">
+               <head>XX.</head>
+               <p>That all Donations of any and every Founder of Hoſpi<g ref="char:EOLhyphen"/>talls and Alms-houſes, and of ſuch as have given any Eſtate to ſuch charitable uſes, may be onely made uſe of for future time exactly to anſwer the ends of the Doners, and to fulfill their Wills in the matter, that ſo thoſe to whom of right the bene<g ref="char:EOLhyphen"/>fit of them belongs, may not be unjuſtly put from it, as in ſeveral places they have been, through the corruption of the Officers or Overſeers of ſuch places; and ſurely it is in uſtice (if not theft) in a high nature, to diſpoſe of that to one, which was by thoſe that gave it, aſſigned to another; and when ſuch as ſurvive, and are charitably minded on ſuch an account, do obſerve the wrong or injuſtice done in ſuch caſes, how are they diſcouraged from ſuch like works of Charity, when they ſee the charity of others ſo abominably abuſed before their eyes?</p>
+            </div>
+            <div type="postscript">
+               <head>POSTSCRIPT.</head>
+               <p>MAny other things are moſt neceſſary to be done, as ſettling of the <hi>Militia</hi> of theſe Nations in the hands of ſuch as are of known fidelity, and thoroughly reſolved, faithfully to preſerve and maintain the publike and good intereſt of the Commonwealth as it now ſtands, and the paying of the debts, e<g ref="char:EOLhyphen"/>ſpecially to the Army and Nav, with all poſſible expedition, ac<g ref="char:EOLhyphen"/>cording to the late Votes of Parliament, and many wayes might be propoſed how to do it, but it being informed that the Parlia<g ref="char:EOLhyphen"/>ment are reſolved to go through with that, and other good things, no more is thought meet for the preſent to be added, ſave moſt earneſtly to intreat all perſons, eſpe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iall, thoſe who have been in<g ref="char:EOLhyphen"/>ſtrumental to invite the Parliament to ſit, that they be very ſob<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r, and wait on the Lord with patience, ſeeking to him for counſel and his bleſſing on them, that they may go on in the work of their generation, without any other haſty or unwarrantable interrup<g ref="char:EOLhyphen"/>tion; a thing moſt dangerous, and not to be adventured on untill a moſt palpable and great neceſſity doth call for it; which we truſt the Lord will in much mercy prevent. Amen, Amen.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
